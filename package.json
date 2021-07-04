@@ -10,8 +10,7 @@
     "start": "webpack serve --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js",
     "lint": "eslint ./src",
-    "test": "jest --coverage",
-    "ci": "start-test :8080 test"
+    "test": "jest --coverage"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",
