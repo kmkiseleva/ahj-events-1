@@ -4,7 +4,7 @@
   "description": "homeworks",
   "main": "index.js",
   "repository": "https://github.com/kmkiseleva/ahj-events-1",
-  "author": "Ksenia Kiseleva <ksushakiseleva@mail.ru>",
+  "author": "kmkiseleva",
   "license": "MIT",
   "scripts": {
     "start": "webpack serve --config webpack.dev.js",
